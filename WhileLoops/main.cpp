@@ -9,4 +9,11 @@ int main()
         cout << index << endl;
         index++;
     }
+
+    int index1 = 6;
+    do
+    {
+        cout << index1 << endl;
+        index++;
+    } while (index1 <= 5);
 }
